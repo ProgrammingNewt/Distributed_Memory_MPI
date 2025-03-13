@@ -6,7 +6,7 @@ This repository contains my MPI-parallelized particle simulator, developed in C+
 
 **MAIN FILES:**  
 - `main.cpp` → Entry point for the simulation, orchestrating MPI setup and execution.  
-- `mpi.cpp` → Core parallel implementation of the particle simulation using MPI for up to 128 tasks.  
+- `mpi.cpp` → [MAIN WORK HERE] Core parallel implementation of the particle simulation using MPI for up to 128 tasks.  
 - `common.h` → Shared definitions and utilities for particle data and simulation parameters.
 
 ## Overview
